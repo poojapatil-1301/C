@@ -1,5 +1,5 @@
 #include <stdio.h>
-    int stack[100],i,j,choice=0,n,top=-1;
+    int stack[4],i,j,choice=0,n,top=-1;
     void push();
     void pop();
     void show();
